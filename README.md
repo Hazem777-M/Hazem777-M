@@ -1,16 +1,16 @@
-<h1 align="center">مرحباً بك! أنا حازم - مهندس برمجيات /h1>
+<h1 align="center">مرحباً بك! أنا حازم - مهندس برمجيات </h1>
 
 <div align="center">
-  <a href="https://your-linkedin-profile.com" target="_blank">
+  <a href="https://www.linkedin.com/in/hazem-hazam-al-omari-194016354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-facebook-profile.com" target="_blank">
+  <a href="https://www.facebook.com/hazm.hzam.al.mry?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:hazemhazam.programmer@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-personal-website.com" target="_blank">
+  <a href="https://hazemsoftwaredeveloper.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=About-dot-me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -75,11 +75,3 @@
 </p>
 
 ***
-
-### 🤝 تواصل معي (Let's Connect)
-
-أنا متوفر للمشاريع المستقلة، التعاون، والمناقشة حول التقنية والبرمجة. لا تتردد في التواصل معي.
-
-* **GitHub:** [https://github.com/Hazem777-M](https://github.com/Hazem777-M)
-* **الموقع الشخصي (Portfolio):** [https://hazemsoftwaredeveloper.web.app]
-* **Facebook:** [https://www.facebook.com/hazm.hzam.al.mry?mibextid=ZbWKwL]
